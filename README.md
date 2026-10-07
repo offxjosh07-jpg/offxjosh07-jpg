@@ -1,90 +1,66 @@
 <div align="center">
 
-# Hi 👋, I'm Joshua J
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Joshua+J+%F0%9F%91%8B;B.Tech+Information+Technology+Student;Aspiring+Data+Analyst;Software+Developer;Cybersecurity+Enthusiast;AI+%26+ML+Explorer" alt="Typing Animation"/>
 
-### B.Tech IT Student | Data Analytics | Cybersecurity | AI/ML
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Cybersecurity+Enthusiast;AI%2FML+Explorer;Python+%7C+SQL+%7C+Power+BI;Building+Secure+%26+Intelligent+Solutions" alt="Typing SVG" />
+<p>
+  <a href="https://github.com/offxjosh07-jpg">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=offxjosh07-jpg&label=PROFILE+VIEWS&style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology student
-- 📊 Interested in **Data Analytics** and data-driven decision making
-- 🔐 Exploring **Cybersecurity** and secure application development
-- 🤖 Interested in **AI/ML** and AI-powered applications
-- 💻 Currently improving my skills in **Python, SQL, Power BI and C++**
-- 🚀 Building projects to strengthen my development and problem-solving skills
-- 📚 Always learning, experimenting and building
+I'm **Joshua J**, a **B.Tech Information Technology student** focused on learning, building, and solving real-world problems with technology.
 
----
+🎓 **B.Tech Information Technology**
 
-## 🛠️ Tech Stack
+📊 **Data Analytics & Business Intelligence**
 
-<p align="center">
+🔐 **Cybersecurity & Secure Development**
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
+🤖 **Artificial Intelligence & Machine Learning**
 
-<a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp" />
-</a>
+💻 **Python • SQL • C++ • Excel • Power BI**
 
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</a>
-
-<a href="https://powerbi.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=powerbi" />
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" />
-</a>
-
-</p>
+🚀 Building practical projects and improving my technical skills through continuous learning.
 
 ---
 
-## 🚀 Current Focus
+# 🧠 Skills Tree
 
-```text
-📊 Data Analytics
-   ├── Python
-   ├── SQL
-   ├── Excel
-   └── Power BI
-
-🔐 Cybersecurity
-   ├── Security Fundamentals
-   ├── Secure Development
-   └── Ethical Hacking Concepts
-
-🤖 AI / ML
-   ├── AI Applications
-   ├── Machine Learning
-   └── AI Agents
+```mermaid
+mindmap
+  root((Joshua J))
+    📊 Data Analytics
+      Python
+      SQL
+      Excel
+      Power BI
+    💻 Software Development
+      C++
+      HTML
+      CSS
+      JavaScript
+      Git
+      GitHub
+    🔐 Cybersecurity
+      Security Fundamentals
+      Secure Development
+      Ethical Hacking Concepts
+    🤖 Artificial Intelligence
+      AI Applications
+      Machine Learning
+      AI Agents
